@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://www.tooplate.com/live/2151_winter_gallery -->
+<html lang="en" itemscope="" itemtype="https://schema.org/Article"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="./Winter Gallery_files/f(7).txt"></script><script type="text/javascript" async="" src="./Winter Gallery_files/hadron.js.download"></script><script type="text/javascript" async="" src="./Winter Gallery_files/adagio.js.download" id="adagiojs-29b4200b2376268" data-pid="1152"></script><script type="text/javascript" async="" src="./Winter Gallery_files/id5PrebidModule.js.download"></script><script type="text/javascript" async="" src="./Winter Gallery_files/azerion-edge.min.js.download"></script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.tooplate.com/live/2151_winter_gallery">
+    <title>Winter Gallery - Live View</title>
+    <meta name="description" content="Live viewing of Winter Gallery HTML CSS template - Tooplate.com">
+    <meta name="author" content="tooplate">
+    <link rel="shortcut icon" href="https://www.tooplate.com/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="./Winter Gallery_files/css2" rel="stylesheet">
+    <link href="./Winter Gallery_files/tooplate-all-20210722.css" rel="stylesheet">
+    <link href="./Winter Gallery_files/tooplate-style-2601.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Winter Gallery_files/tooplate-prompt-banner.css">
+        <script src="./Winter Gallery_files/hadron(1).js.download"></script><iframe id="pxcelframe" title="pxcelframe" src="./Winter Gallery_files/t_.html" style="display: none;"></iframe><script async="" src="./Winter Gallery_files/5bd821e07a0efc00111a3c49.js.download"></script><script type="text/javascript" async="" src="./Winter Gallery_files/analytics.js.download"></script><script type="text/javascript" async="" src="./Winter Gallery_files/js"></script><script src="./Winter Gallery_files/cmp.js.download"></script><script async="" src="./Winter Gallery_files/AGSKWxU1e4IVFQDjlr400RZXIpdeMVnELRzxk5pphErcvpa-1j6qilBN02V9GKxtJRzTNcd2tMfxoBjzkKdZja4gCNY="></script>
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!--<script data-ad-client="ca-pub-4847506191651249" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./Winter Gallery_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-732601-15');
+</script>
+    <!-- Tooplate Banner Heading --> 
+<script>
+  window.googletag = window.googletag || {};
+  window.googletag.cmd = window.googletag.cmd || [];
+  window.googletag.cmd.push(() => {
+    window.googletag.pubads().enableAsyncRendering();
+    window.googletag.pubads().disableInitialLoad();
+  }
+  );
+  const injectPgScript = (src, isAsync, onLoadCallback) => {
+    if (!src)
+      return;
+    const script = document.createElement("script");
+    script.src = src;
+    if (isAsync)
+      script.async = isAsync;
+    if (onLoadCallback)
+      script.onload = onLoadCallback;
+    document.head.appendChild(script);
+  }
+    ;
+  const initiatePgAds = () => {
+    !!window.__tcfapi && window.__tcfapi("addEventListener", 2, (tcData, success) => {
+      if (success && (tcData.eventStatus === "useractioncomplete" || tcData.eventStatus === "tcloaded" || tcData.gdprApplies === false)) {
+        if (!window._initAds) {
+          window._initAds = true;
+          injectPgScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", true);
+          injectPgScript("//dsh7ky7308k4b.cloudfront.net/publishers/tooplatecom.min.js", true);
+          injectPgScript("//btloader.com/tag?o=5184339635601408&upapi=true", true);
+        }
+      }
+    }
+    );
+  }
+    ;
+  injectPgScript("https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=8095840", true, () => {
+    window.googlefc = window.googlefc || {
+      callbackQueue: []
+    };
+    window.googlefc.callbackQueue.push({
+      "CONSENT_API_READY": () => initiatePgAds()
+    });
+  }
+  );
+</script><script src="./Winter Gallery_files/f(8).txt" async=""></script>
+    <script type="text/javascript" src="./Winter Gallery_files/sharethis.js.download" async="async"></script>
+  <meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="./Winter Gallery_files/f(9).txt" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202606180101/gpt" rel="compression-dictionary"><script async="" src="./Winter Gallery_files/8095840"></script><script src="./Winter Gallery_files/f(10).txt" async=""></script><script src="./Winter Gallery_files/tooplatecom.min.js.download" async=""></script><script src="./Winter Gallery_files/tag" async=""></script><script async="" src="./Winter Gallery_files/AGSKWxVo6DSana_h5e0HtILbZH2UI6Jv20AmTbuD7QZgxKKj3iLqYkBO4lSax4kGbB9F09bU7X0p09d_buEQ9ttjZ_ubHxZEdLNa2h8FVlcCDmrbrJyXWN4PtpcqIrReoqGlzCO2dMd5Qw=="></script><script esp-signal="true" src="./Winter Gallery_files/myGaruStandalone.js.download"></script><script esp-signal="true" src="./Winter Gallery_files/encrypted-tag-g.js.download"></script><script esp-signal="true" src="./Winter Gallery_files/provider.js.download"></script><script esp-signal="true" src="./Winter Gallery_files/novatiq_gam_integration.min.js.download"></script><script async="" src="./Winter Gallery_files/f2505d8d8445a08a.js.download"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link href="https://aax.amazon-adsystem.com/" rel="preconnect"><link href="./Winter Gallery_files/6d0c7ea7-f036-437d-be93-21fc59c890c2" rel="preload" as="script" fetchpriority="high"><link href="./Winter Gallery_files/publisher.js.download" rel="preload" as="script" fetchpriority="high"><script src="./Winter Gallery_files/6d0c7ea7-f036-437d-be93-21fc59c890c2" async="" fetchpriority="high"></script><script src="./Winter Gallery_files/publisher.js.download" async="" fetchpriority="high"></script><link rel="preload" as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js"><link href="https://currency.prebid.org/" rel="preconnect dns-prefetch"><link href="https://ssc.33across.com/" rel="preconnect dns-prefetch"><link href="https://mp.4dex.io/prebid" rel="preconnect dns-prefetch"><link href="https://ib.adnxs.com/" rel="preconnect dns-prefetch"><link href="https://bidder.criteo.com/cdb" rel="preconnect dns-prefetch"><link href="https://grid-bidder.criteo.com/" rel="preconnect dns-prefetch"><link href="https://ice.360yield.com/" rel="preconnect dns-prefetch"><link href="https://ad.360yield.com/" rel="preconnect dns-prefetch"><link href="https://htlb.casalemedia.com/cygnus" rel="preconnect dns-prefetch"><link href="https://prebid.media.net/" rel="preconnect dns-prefetch"><link href="https://onetag-sys.com/prebid-request" rel="preconnect dns-prefetch"><link href="https://u.openx.net/" rel="preconnect dns-prefetch"><link href="https://rtb.openx.net/" rel="preconnect dns-prefetch"><link href="https://hbopenbid.pubmatic.com/translator?source=prebid-client" rel="preconnect dns-prefetch"><link href="https://fastlane.rubiconproject.com/" rel="preconnect dns-prefetch"><link href="https://eus.rubiconproject.com/" rel="preconnect dns-prefetch"><link href="https://s.seedtag.com/" rel="preconnect dns-prefetch"><link href="https://btlr.sharethrough.com/WYu2BXv1/v1" rel="preconnect dns-prefetch"><link href="https://prebid.smilewanted.com/" rel="preconnect dns-prefetch"><link href="https://edge.hyth.io/" rel="preconnect dns-prefetch"><link href="https://script.4dex.io/" rel="preconnect dns-prefetch"><link href="https://gum.criteo.com/" rel="preconnect dns-prefetch"><link href="https://cdn.id5-sync.com/" rel="preconnect dns-prefetch"><link href="https://id5-sync.com/" rel="preconnect dns-prefetch"><link href="https://api.id5-sync.com/" rel="preconnect dns-prefetch"><link href="https://id.crwdcntrl.net/" rel="preconnect dns-prefetch"><link href="https://cdn.hadronid.net/" rel="preconnect dns-prefetch"><link href="https://cdn.pbxai.com/" rel="preconnect dns-prefetch"><link href="https://floor.pbxai.com/" rel="preconnect dns-prefetch"><link href="https://pbs.360yield.com/" rel="preconnect dns-prefetch"><link href="https://securepubads.g.doubleclick.net/" rel="preconnect dns-prefetch"><link href="https://pagead2.googlesyndication.com/" rel="dns-prefetch"><link href="https://googlesyndication.com/" rel="dns-prefetch"><link href="https://cm.g.doubleclick.net/" rel="dns-prefetch"><link href="https://aax.amazon-adsystem.com/" rel="preconnect dns-prefetch"><link href="https://config.aps.amazon-adsystem.com/" rel="preconnect dns-prefetch"><link href="https://client.aps.amazon-adsystem.com/" rel="preconnect dns-prefetch"><script src="./Winter Gallery_files/id5-api.js.download"></script><script src="./Winter Gallery_files/sync.min.js.download"></script><script src="./Winter Gallery_files/pubcid.min.js.download"></script><script src="./Winter Gallery_files/251fdff9-3043-42e6-a6f4-35500425a8a6.js.download" async="" referrerpolicy="origin"></script><style>#adhesive_container_bottom .pg_close-ad-btn {
+    z-index: 1214748364;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    box-sizing: content-box;
+  }
+
+  #adhesive_container_bottom .pg_close-ad-btn-content {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    background: #EEEEEE;
+    border-radius: 50%;
+    transform: rotate(45deg);
+  }
+
+  #adhesive_container_bottom .pg_close-ad-btn-content:after, #adhesive_container_bottom .pg_close-ad-btn-content:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 2.5px;
+    height: 12px;
+    background: #111111;
+    transform: translate(-50%, -50%);
+  }
+
+  #adhesive_container_bottom .pg_close-ad-btn-content:before {
+    transform: translate(-50%, -50%) rotate(90deg)
+  }
+
+  #adhesive_container_bottom .outside {
+    top: auto;
+    top: -30px;
+    width: 20px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.7);
+    
+    border-radius: 0 15px 0 0;
+  }
+  #adhesive_container_bottom .outside.vertical {
+    width: 20px;
+    padding: 5px;
+  }
+  #adhesive_container_bottom .outside>.pg_close-ad-btn-content {
+    background: transparent;
+    box-shadow: none;
+    margin: 0 auto;
+  }
+  #adhesive_container_bottom .outside>.pg_close-ad-btn-content:before, .outside>.pg_close-ad-btn-content:after {
+    background: #111111;
+  }
+
+  #adhesive_container_bottom.pgAdhesiveHidden {
+    bottom: -20px !important;
+    z-index: 0 !important;
+    display: initial !important;
+  }
+
+  .pgAdhesiveBackground.pgAdhesiveHidden, .pgAdhesiveBackground.notVisible {
+    visibility: hidden !important;
+  }
+
+  #adhesive_banner_bottom-bottom.pgAdhesiveHidden {
+    margin-bottom: -50vh !important;
+  }
+
+  .pg_close-ad-btn.pgAdhesiveHidden {
+    visibility: hidden !important;
+  }
+
+  #tooplatecom47404.pgAdhesiveHidden {
+    position: fixed !important;
+    left: 50% !important;
+    bottom: 0px !important;
+    transform: translate(-50%, 49%) !important;
+  }
+
+  div[id^="sas_closeButton_"], div[data-testid="close-button"] {
+    display: none;
+  }
+
+  .pg_azerion-logo {
+    display: none;
+  }
+
+  .ow-adhesive-filled .pg_azerion-logo {
+    display: block
+  }#tooplatecom47404-companion-0 + .adSpinner { display: none; }#tooplatecom47404-companion-1 + .adSpinner { display: none; }</style><script src="./Winter Gallery_files/6d0c7ea7-f036-437d-be93-21fc59c890c2" type="text/javascript" async="async"></script><script async="" src="./Winter Gallery_files/f2505d8d8445a08a.js.download"></script><script async="" src="./Winter Gallery_files/AGSKWxU-nTMkCOfjZkeBluvVbOVTJAWHqDlowA_AlOwAP9OJ-1m9utPuBYR3KqgjyjuDxAqfpDflUlAjrdeqfrzODlGLU21Vs6VRefIZ8Edz5Q5t24gfg32crvv21TXWYHwpp5JThdzyfg=="></script><script async="" src="./Winter Gallery_files/AGSKWxXn9rFTJ7v2exONkt1Q7NfW2nnyRn9MnEyQ45wweOP7zA7JxsHk3t92-xKOGvE-mAnmzAPtySnN1-FlCKMaFOMjTjgV0dYXPd-EWWA8_7alQuooYaRdfvoRQb5yAMkQVusAC3bHZA=="></script><script async="" src="./Winter Gallery_files/AGSKWxUVdkFkLFDgqwUzz1vH3pGNEr9s6pkPKZcjS4gTtJ5ivATEndNeBwQHusrFUqSwIf5mbZN9iTBPjYMTajdZI8P8GC_wZTmce2fG2HXVfNt2UAwg3kFttAWb21GQzhC8Zx9SZkCFwQ=="></script><style data-id="pgStyle">
+    .up-show + .adSpinner {
+      display: none;
+    }
+
+    @keyframes ad-slot__label__letters {
+      0% {
+        opacity: 1;
+      }
+      15% {
+        opacity: 0.65;
+      }
+      30% {
+        opacity: 1;
+      }
+    }
+
+    .adSpinner.ad-slot__label {
+      width: 50px;
+      height: 50px;
+      position: absolute;
+      padding: 5px;
+      border-radius: 100%;
+    }
+
+    .adSpinner.ad-slot__label .az_logo_group {
+      transform: translate(60px, 120px);
+    }
+
+    .adSpinner.ad-slot__label .letter {
+      animation: ad-slot__label__letters 3s ease normal infinite;
+    }
+
+    .adSpinner.ad-slot__label .letter__1 {
+      animation-delay: 0.2s;
+    }
+
+    .adSpinner.ad-slot__label .letter__2 {
+      animation-delay: 0.4s;
+    }
+
+    .adSpinner.ad-slot__label .letter__3 {
+      animation-delay: 0.6s;
+    }
+
+    .adSpinner.ad-slot__label .letter__4 {
+      animation-delay: 0.8s;
+    }
+
+    .adSpinner.ad-slot__label .letter__5 {
+      animation-delay: 1s;
+    }
+
+    .adSpinner.ad-slot__label .letter__6 {
+      animation-delay: 1.2s;
+    }
+
+    .adSpinner.ad-slot__label .letter__7 {
+      animation-delay: 1.4s;
+    }
+    </style><link type="text/css" rel="stylesheet" href="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/css/mcafee_fonts.css"></head>
+
+  <body aria-hidden="false">
+        <div id="live-view">
+	<iframe style="display: block; position: absolute; width: 100%; height: 100%;" width="100%" height="100%" frameborder="0" src="./Winter Gallery_files/2151_winter_gallery.html"></iframe>
+</div>    
+<!-- Change the ad setting link. We usually recomend putting them in the footer of your website -->
+<!-- Change Consent Option FundingChoices -->
+
+<div id="fluid-privacy-opt-out-link" onmouseover="this.style.color=&#39;rgb(25, 103, 210)&#39;; this.style.cursor=&#39;pointer&#39;" onmouseout="this.style.color=&#39;#CCCCCC&#39;; this.style.cursor=&#39;auto&#39;"></div>
+<script>
+  const privacyOptOutLink = document.getElementById("fluid-privacy-opt-out-link");
+  window.googlefc = window.googlefc || { callbackQueue: [] };
+  window.googlefc.ccpa = window.googlefc.ccpa || {}
+  window.googlefc.callbackQueue.push(
+    {
+      "CONSENT_API_READY": () => {
+        if (!privacyOptOutLink) {
+          return;
+        }
+        privacyOptOutLink.addEventListener("click", () => googlefc.showRevocationMessage());
+        !!window.__tcfapi && window.__tcfapi("addEventListener", 2, (tcData, success) => {
+          if (success && tcData.gdprApplies) {
+            privacyOptOutLink.innerText = "Change GDPR Consent";
+            return;
+          }
+          if (googlefc.ccpa.InitialCcpaStatusEnum() === googlefc.ccpa.InitialCcpaStatusEnum.NOT_OPTED_OUT) {
+            window.googlefc.ccpa.overrideDnsLink = true;
+            privacyOptOutLink.innerText = "Don't sell or share my personal info";
+            privacyOptOutLink.addEventListener("click", () => googlefc.ccpa.openConfirmationDialog((optedOut) => {
+              if (optedOut) {
+                privacyOptOutLink.style.display = "none";
+              }
+            }));
+            return
+          }
+        });
+      }
+    });
+</script>
+<script src="./Winter Gallery_files/tooplate-prompt-banner.js.download"></script>
+
+<script>
+document.querySelectorAll('a.btn[href*="/download/"]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        var last = localStorage.getItem('timermo_visit');
+        var now = Date.now();
+        if (!last || now - last > 86400000) {
+            window.open('https://www.timermo.com/?utm_source=tooplate&utm_medium=download&utm_campaign=redirect', '_blank');
+            localStorage.setItem('timermo_visit', now);
+        }
+    });
+});
+</script>
+  <script defer="" src="./Winter Gallery_files/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;0e13ca71309b4007ba729020600f7c45&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+<iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;" src="./Winter Gallery_files/saved_resource(6).html"></iframe><iframe name="__tcfapiLocator" src="./Winter Gallery_files/saved_resource(7).html" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__uspapiLocator" src="./Winter Gallery_files/saved_resource(8).html" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="__gppLocator" src="./Winter Gallery_files/saved_resource(9).html" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="./Winter Gallery_files/saved_resource(10).html" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="./Winter Gallery_files/saved_resource(11).html" style="display: none; width: 0px; height: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" id="1b0cf4d34364a08" width="0" height="0" src="./Winter Gallery_files/saved_resource(12).html" name="__pb_locator__" style="display: none; height: 0px; width: 0px; border: 0px;"></iframe><div id="adhesive_container_bottom" class="ow-adhesive-bottom" style="min-height: 1px; min-width: 1px; position: fixed; display: flex; z-index: 1214748363; text-align: center; width: 100%; align-items: flex-end; justify-content: center; left: 50%; transform: translateX(-50%); bottom: 0px;"><div class="pgAdhesiveBackground notVisible" style="background-color: rgba(255, 255, 255, 0.7); position: absolute; inset: 0px;"></div><div class="pgAdWrapper" style="min-width: 320px; min-height: 100px; display: flex; justify-content: center; align-items: center; position: relative; margin: 0px 5px;"><div id="tooplatecom47404-companion-1" data-pg-no-auction="true" data-google-query-id="CMuRhebkkpUDFZheQQIdnaQRTw"><div id="google_ads_iframe_/8095840,22381294811/.2_A.47404.3_tooplate.com_tier1_2__container__" style="border: 0pt; width: 300px; height: 0px;"></div></div><div class="adSpinner ad-slot__label" style="display: none;"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1000 1000" xml:space="preserve">
+    <g class="az_logo_group">
+      <g><g><g><g>
+        <g class="letter letter__1">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M136.3,652.2v53.5c0,7.9-5.7,13.7-13.7,13.7c-5.5,0-13.1-5.7-13.1-13.7c-11.7,9.8-24.8,13.7-40.4,13.7C30.6,719.3,0,690.7,0,652.2s30.6-69.1,69.1-69.1S136.3,613.7,136.3,652.2z M109.5,652.2c0-22.9-17.5-42.3-40.4-42.3s-42.3,19.4-42.3,42.3s19.4,40.4,42.3,40.4C92,692.5,109.5,675,109.5,652.2z"></path>
+        </g>
+        <g class="letter letter__2">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M264.6,705.9c0,7.4-6,13.7-13.4,13.7h-84.9c-5.2,0-10.1-3-12.3-7.6c-2.5-4.9-1.9-10.4,1.4-14.5l68.3-87.9h-57.9c-7.4,0-13.4-6.3-13.4-13.7s6-13.4,13.4-13.4h84.9c5.2,0,10.1,2.7,12.3,7.6c2.5,4.6,1.9,10.1-1.4,14.2l-68.3,88.2h57.9C258.6,692.5,264.6,698.5,264.6,705.9z"></path>
+        </g>
+        <g class="letter letter__3">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M408.2,651c0,7.4-6,13.4-13.7,13.4h-94.2c5.7,16.4,21,28.1,39.3,28.1c6.3,0,17.5-0.5,30.6-9c6.3-4.1,14.7-0.3,18,6.3c3.3,6.8-0.3,13.9-6.6,18c-18,12-31.9,11.7-42.1,11.7c-38,0-68.5-30.9-68.5-68.5c0-38,30.6-68.5,68.5-68.5C372.7,582.5,408.2,606.5,408.2,651z M300.4,637.3h78.9c-5.7-19.1-23.2-27.9-39.6-27.9C321.4,609.5,306.1,621.2,300.4,637.3z"></path>
+        </g>
+        <g class="letter letter__4">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M506.5,596.2c0,7.4-6,13.7-13.7,13.7c-22.9,0-41.5,18.6-41.5,41.5v54.9c0,7.4-6,13.7-13.4,13.7c-7.6,0-13.7-6.3-13.7-13.7v-54.9c0-38,30.9-68.5,68.5-68.5C500.5,582.8,506.5,588.8,506.5,596.2z"></path>
+        </g>
+        <g class="letter letter__5">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M522.6,706.2v-110c0-7.4,6-13.4,13.7-13.4c7.4,0,13.4,6,13.4,13.4v110c0,7.6-6,13.7-13.4,13.7C528.6,719.8,522.6,713.8,522.6,706.2z"></path>
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M526.7,563.3c-2.5-2.5-4.1-6-4.1-9.6c0-3.5,1.6-7.1,4.1-9.6s6-4.1,9.6-4.1s7.1,1.6,9.6,4.1s3.8,6,3.8,9.6  c0,3.5-1.4,7.1-3.8,9.6c-2.5,2.5-6,3.8-9.6,3.8S529.2,565.8,526.7,563.3z"></path>
+        </g>
+        <g class="letter letter__6">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M565.8,651c0-38,30.9-68.5,68.5-68.5c38,0,68.5,30.6,68.5,68.5c0,37.7-30.6,68.5-68.5,68.5C596.6,719.5,565.8,688.8,565.8,651z M592.8,651c0,22.7,18.6,41.5,41.5,41.5s41.5-18.8,41.5-41.5c0-22.9-18.6-41.5-41.5-41.5C611.4,609.5,592.8,628.2,592.8,651z"></path>
+        </g>
+        <g class="letter letter__7">
+          <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M856,651v54.9c0,7.6-6,13.7-13.7,13.7c-7.4,0-13.4-6-13.4-13.7V651c0-22.9-18.6-41.5-41.5-41.5s-41.5,18.6-41.5,41.5v54.9c0,7.6-6,13.7-13.7,13.7c-7.4,0-13.4-6-13.4-13.7V651c0-38,30.9-68.5,68.5-68.5C825.2,582.5,856,613,856,651z"></path>
+        </g>
+      </g></g></g></g>
+      <g class="az__logo">
+        <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M607.4,302c0.7,0.9,1.2,1.5,1.6,2.1c8.1,12.3,13.2,25.8,14.5,40.5c1.1,12.7-0.8,25.1-5.7,36.9c-9.3,22.6-25.2,39.3-46.8,50.5c-16.7,8.7-34.5,12.3-53.2,11.1c-21.8-1.3-41.2-8.8-58.1-22.8c-1.5-1.2-2.9-2.5-4.3-3.9c-25.1-25.8-41.5-56.4-48.7-91.7c-2.5-12.3-3.6-24.6-3.6-37.1c0-17.1,0-34.2,0-51.3c0-10.5-1.8-20.7-5.8-30.5c-10.2-25.3-33-43.7-59.8-48.1c-43.8-7.2-81.7,21.4-90.4,60.9c-1.5,6.8-2,13.7-1.6,20.6c0.1,1.8,0.2,3.6,0.2,5.4c-0.9,0.4-1.1-0.2-1.4-0.6c-3.8-5.5-7.2-11.2-10.3-17.2c-7.7-15-12.7-30.9-15.1-47.7c-4.2-30.7,1.3-59.6,16.8-86.4c19.2-33.4,47.5-56,83.6-69c11.1-4,22.6-6.7,34.3-8c12.9-1.5,25.8-1.4,38.6,0.3c15.6,2.1,30.6,6.3,44.8,13.1c3.1,1.5,6.1,3.1,9,4.8c54.5,32.9,93.7,87.4,107.7,149.5c3,13.4,4.9,27,5.5,40.7c0.2,5.1,0.4,10.2,0.4,15.3c0.1,15.9,0.2,31.7,0.3,47.6c0,2.6,0.2,5.3,0.8,7.7c2.7,10.1,9.2,16.6,19.4,18.8c10.1,2.1,18.5-1.1,25.2-8.9c0.3-0.3,0.5-0.7,0.8-1.1C606.5,303.1,606.8,302.8,607.4,302z"></path>
+        <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M365.6,4.1c-1,0.1-2,0.2-3,0.2c-8.3,0.2-16.5,0.9-24.7,2.2c-23,3.8-44.3,12-63.8,24.8c-22.5,14.7-40.7,33.5-53.9,56.9c-9,15.9-14.8,33-17.5,51.1c-2,13.2-2.3,26.4-0.7,39.6c4.6,37.7,20.6,69.8,46.9,97c10.2,10.5,21.6,19.3,34.1,26.9c10.7,6.5,22.3,10.4,34.9,11.3c20.9,1.5,39.6-4.3,56-17.4c3.4-2.7,6.6-5.5,9.9-8.3c0.6-0.5,1.2-0.9,1.8-1.3c0.8,0.5,0.6,1.1,0.6,1.6c0,3.7,0.1,7.5,0,11.2c-0.1,6.6,0.7,13.1,1.7,19.6c3.1,19.9,9.1,39,18,57.1c9.7,19.8,22.4,37.5,38,53.1c1.7,1.8,3.5,3.5,5.2,5.3c-8.2,7.3-40.8,22-61.5,27.7c-34.6,9.6-69.6,11.3-105,5.1c-36.7-6.5-70-20.9-99.7-43.3C90.9,355.7,63.6,234,111,134.6C135.2,84,173,46.7,223.5,22.4C271.8-0.8,324.4-4.2,365.6,4.1z"></path>
+        <path fill="#979797" stroke="rgba(0,0,0,0)" stroke-width="5" d="M505.4,452c2.7,0.5,5.3,1,7.8,1.4c18.7,3.1,37.1,1.5,54.9-4.9c28.3-10.2,49.6-28.7,63.4-55.5c6.9-13.3,10.2-27.6,10.3-42.5c0.1-15-3.3-29.2-9.6-42.7c-6.4-13.5-15.3-25.1-26.2-35.2c-11.9-10.9-19.6-24.2-23.2-39.9c-9.6-41.7,15.3-82.2,55.4-93.4c27.6-7.7,56.9,0.2,76.8,20.3c25.8,26.1,42.4,57,49.7,93c2.3,11.4,3.6,22.8,3.4,34.4c-0.1,6.3,0,12.7-0.6,19c-1.5,15.2-4.7,30-9.9,44.3c-21,57.7-69.3,101.2-128.7,115.7c-18.1,4.4-36.4,6-55,4.8c-23-1.4-44.9-7.1-65.7-16.9C507.2,453.5,506,453.3,505.4,452z"></path>
+      </g>
+    </g>
+  </svg></div></div><div id="adhesive_banner_bottom" style="position: relative; text-align: center; min-height: 1px; min-width: 1px; clip-path: inset(0px); align-self: flex-end; width: 0px; margin: 0px 0px 0px -11px;"><div id="tooplatecom47404" data-google-query-id="CMLe6-XkkpUDFQx1pAQdibsXqg"><div id="google_ads_iframe_/8095840,22381294811/.2_A.47404.3_tooplate.com_tier1_0__container__" style="border: 0pt; width: 728px; height: 0px;"></div></div></div><div id="tooplatecom47404-companion-0" data-pg-no-auction="true" data-google-query-id="CIyP8tLkkpUDFd9M9ggdEDApuA"></div></div><div class="r0bddfpv5cdr"></div><div class="gt2xtoqomfib"></div><div class="nuzb6i9s8xmj"></div><div class="ylpgtaigvzj7" style="bottom: 0px; left: 0px; position: fixed; width: 109%; z-index: 2147483638; background-color: rgb(254, 248, 222); box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: rgb(4, 8, 7); display: flex; justify-content: center; font-family: Roboto, Arial;"><div class="mcms5s8s06l8"></div><div class="57cm2vadsyh"></div><div class="dujtbopwnooe"></div><div class="q2itheif8ggu" style="width: 82%; max-width: 758px; margin: 24px; display: flex; align-items: flex-start; justify-content: center;"><div class="7483dmsk6fpb"></div><div class="wj5taqguwuxs"></div><div class="m761pq7lxhqo"></div><img class="6pb7t03m75wd" src="./Winter Gallery_files/warning_amber_24dp.png" style="height: 24px; width: 24px; padding-right: 16px;"><div class="3twb71cnh5je"></div><div class="lll0nx2lrz2m"></div><div class="1b8mmj73fnig"></div><div class="qojphklhmlca"></div><div class="rwwvvfj2u6t1"></div><div class="cwngbv9xnxfj"><div class="vapkgyhyv1l7"></div><div class="vh7vt3m7y5fp" style="font-weight: bold;">You are seeing this message because ad or script blocking software is interfering with this page.</div><div class="83jn3sjo6odl"></div><div class="pqbkt69ahkzw"></div><div class="pq4x8mfv4jmx"></div><div class="14n13r7p588"></div><div class="7hkboviqbru3"></div><div class="3ks4uawyyb"></div><div class="aguctv6aiq66">Disable any ad or script blocking software, then reload this page.</div><div class="en85x1al9t9x"></div><div class="lsmztzpotu37"></div><div class="o4j91ss96fso"></div></div><div class="74tsrzbmktg5"></div></div><div class="ai8ofko3m6o8"></div></div><div class="qlgx8ut9sor7"></div><iframe name="google_ads_top_frame" id="google_ads_top_frame" style="display: none; position: fixed; left: -999px; top: -999px; width: 0px; height: 0px;" src="./Winter Gallery_files/saved_resource(13).html"></iframe><iframe src="./Winter Gallery_files/aframe.html" width="0" height="0" style="display: none;"></iframe><img id="adg-0-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/cm"><img id="adg-1-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/user-sync"><iframe id="adg-2-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/cookie_sync.html" style="border: 0px; display: none;"></iframe><iframe id="adg-3-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/user_sync(2).html" style="border: 0px; display: none;"></iframe><iframe id="adg-0-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/sync(14).html" style="border: 0px; display: none;"></iframe><img id="adg-1-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/cm-notify(1)"><iframe id="adg-2-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/saved_resource(14).html" style="border: 0px; display: none;"></iframe><iframe id="adg-3-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/multi-sync(1).html" style="border: 0px; display: none;"></iframe><span id="PING_CONTENT_DLS_POPUP" style="display: none;"></span><div style="background-color: transparent; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; bottom: 15px; display: block; margin: 0px; opacity: 1; padding: 0px; position: fixed; right: 15px; z-index: 2147483647;"><template shadowrootmode="closed"><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2026 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Thin.ttf") format("truetype");font-weight:100;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-ThinItalic.ttf") format("truetype");font-weight:100;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-ExtraLight.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-ExtraLightItalic.ttf") format("truetype");font-weight:200;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Light.ttf") format("truetype");font-weight:300;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-LightItalic.ttf") format("truetype");font-weight:300;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Italic.ttf") format("truetype");font-weight:400;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Medium.ttf") format("truetype");font-weight:500;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-MediumItalic.ttf") format("truetype");font-weight:500;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-SemiBoldItalic.ttf") format("truetype");font-weight:600;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-BoldItalic.ttf") format("truetype");font-weight:700;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-ExtraBold.ttf") format("truetype");font-weight:800;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-ExtraBoldItalic.ttf") format("truetype");font-weight:800;font-style:italic}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-Black.ttf") format("truetype");font-weight:900;font-style:normal}@font-face{font-family:"McAfeePoppins";src:url("../../../fonts/Poppins-BlackItalic.ttf") format("truetype");font-weight:900;font-style:italic}*{border:0;box-sizing:border-box;font:inherit;font-family:"McAfeePoppins",Helvetica,Arial;font-size:100%;margin:0;padding:0;vertical-align:baseline;outline:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html,body{background-color:#f5f6fa;font-family:"McAfeePoppins",Helvetica,Arial;line-height:1;height:100%;width:100%}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}b{font-weight:bold}img{display:block}.dls__container{align-items:center;display:flex;margin:0 auto;margin-top:50px;position:relative}.dls__popup__expanded{align-items:center;overflow:hidden;border-radius:100px;cursor:pointer;display:flex;left:0;padding:15px;position:absolute;height:95px;width:383px;background-color:#fff;transition:all .3s ease-in-out}.dls__popup__expanded .dls__icon{height:65px;width:73px}.content{margin-left:12px}.content .content__images{display:flex;align-items:center;width:250px}.content .content__images .seperator__line{margin-left:5px;margin-right:10px}.content .content__images #dls_close_icon{cursor:pointer;margin-left:auto;margin-right:0px}.content p{font-family:"McAfeePoppins",Helvetica,Arial;font-weight:"400";font-size:14px;line-height:20px;margin-top:8px;color:#4258ff;width:250px;cursor:pointer}.shield{overflow:hidden;box-shadow:0px 2px 4px 0px rgba(33,41,52,.12),0px -1px 2px 0px rgba(0,0,0,.08);align-items:center;border-radius:100px;bottom:0;display:flex;height:95px;justify-content:center;position:absolute;right:0;width:383px;transition:all .3s ease-in-out}.shield__circle{display:flex;justify-content:center;align-items:center;width:55px;height:55px;background-color:#c01818;transition:all .6s ease-in-out .2s;z-index:1;opacity:0}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/download_scan_popup.css.map*/</style><div class="dls__container">
+  <div class="shield" style="background: transparent; opacity: 0.1; display: none;">
+    <div class="shield__circle" style="opacity: 1;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_white.svg?secret=lqun0y" x-mcsrc="" id="dls_ballon_icon" x-mcsrcparsed="true">
+    </div>
+    <div class="dls__popup__expanded" style="opacity: 0;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/download_scan_icon.svg?secret=lqun0y" x-mcsrc="" class="dls__icon" x-mcsrcparsed="true">
+      <div class="content">
+        <div class="content__images">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_red.svg?secret=lqun0y" x-mcsrc="" id="dls_mcafee_logo" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/seperator_line.svg?secret=lqun0y" x-mcsrc="" class="seperator__line" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/webadvisor.svg?secret=lqun0y" x-mcsrc="" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/close-outline.svg?secret=lqun0y" x-mcsrc="" id="dls_close_icon" x-mcsrcparsed="true">
+        </div>
+        <p id="download_scan_popup_expanded_descriptions">Your download's being scanned. We'll let you know if there's an issue.</p>
+      </div>
+    </div>
+  </div>
+</div><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2026 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+.mc-interactive-balloon{position:absolute;right:-50px;bottom:8px;box-shadow:rgba(0,0,0,.12) 0px 0px 10px;height:40px;width:40px;background:#1671ee;border-radius:20px;display:flex;justify-content:center;align-items:center}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/interactive_balloon.css.map*/</style></template></div><iframe id="adg-0-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/saved_resource(15).html" style="border: 0px; display: none;"></iframe><iframe id="adg-1-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/saved_resource(16).html" style="border: 0px; display: none;"></iframe><img id="adg-2-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/rmpssp"><iframe id="adg-3-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/cm(6).html" style="border: 0px; display: none;"></iframe><iframe id="adg-0-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/u.html" style="border: 0px; display: none;"></iframe><iframe id="adg-1-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/usermatch.html" style="border: 0px; display: none;"></iframe><img id="adg-2-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/getuid(2)"><iframe id="adg-3-sync" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="./Winter Gallery_files/sync(15).html" style="border: 0px; display: none;"></iframe><img id="adg-0-sync" style="position:absolute; display:none; height:0; width:0;" src="./Winter Gallery_files/cookie(1)"><img id="adg-1-sync" style="position:absolute; display:none; height:0; width:0;" src="https://ice.360yield.com/server_match?partner_id=1790&amp;us_privacy=1---&amp;r=https%3A%2F%2Fu.4dex.io%2Fsetuid%3Fbidder%3Dimprovedigital%26it%3Dadg-pb-clt%26us_privacy%3D1---%26uid%3D%7BPUB_USER_ID%7D"></body><iframe sandbox="allow-scripts allow-same-origin" id="6811d77b6c4303f8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/checksync.html">
+    </iframe><ins id="gpt_unit_/8095840,22381294811/.2_A.47405.48_tooplate.com_tier1_0" data-google-query-id="CPy9lfngkpUDFdYlBgAd2TwwRg" aria-hidden="true" data-vignette-loaded="true" style="display: none !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: fixed !important; vertical-align: baseline !important; visibility: visible !important; z-index: 2147483647 !important; background: transparent !important;"><div id="google_ads_iframe_/8095840,22381294811/.2_A.47405.48_tooplate.com_tier1_0__container__" style="border: 0pt !important; display: inline-block !important; width: 100vw !important; height: 100vh !important; inset: auto !important; clear: none !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; position: static !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;"><iframe frameborder="0" src="./Winter Gallery_files/container.html" id="google_ads_iframe_/8095840,22381294811/.2_A.47405.48_tooplate.com_tier1_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="" height="" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="private-state-token-redemption;attribution-reporting;autoplay" aria-label="Advertisement" tabindex="0" data-google-container-id="1" data-load-complete="true" style="border: 0px !important; vertical-align: bottom !important; width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; visibility: visible !important; z-index: auto !important;"></iframe></div></ins><iframe sandbox="allow-scripts allow-same-origin" id="6988e7a197b0fbc" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/user_sync(3).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="70ab2c24170af178" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/cm(7).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="71238457524a5428" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/usermatch(1).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="720e158486ffbd2" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/saved_resource(17).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="73e05a30bb38c2b8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/cs(1).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="7448877a6963f8b" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/usync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="75faa4ebbcf183c" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/pd.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="76313bf31a45b568" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/saved_resource(18).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="770d308753bd2a8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/checksync(1).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="787911f43a9953e8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/async_usersync.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="79c7804b29412d68" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/saved_resource(19).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="80a7a46a2d927818" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/syncframe.html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="81e58f0212d46228" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/user_sync(4).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="8211c10da84e4ea" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/async_usersync(1).html">
+    </iframe><iframe sandbox="allow-scripts allow-same-origin" id="834e4f37c3bc4ef8" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" width="0" hspace="0" vspace="0" height="0" style="height:0px;width:0px;display:none;" scrolling="no" src="./Winter Gallery_files/pd(1).html">
+    </iframe></html>
