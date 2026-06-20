@@ -1,0 +1,477 @@
+/* ==========================================================================
+   1. Reset & Global Variables
+   ========================================================================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f9fbfd;
+    color: #666666;
+    line-height: 1.7;
+    padding-top: 70px;
+}
+
+/* ==========================================================================
+   2. Sticky Header Profile
+   ========================================================================== */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    border-bottom: 1px solid #edf2f7;
+    z-index: 1000;
+}
+
+.nav-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #2c3e50;
+    font-weight: 500;
+}
+
+.snowflake-icon {
+    color: #a5b9c7;
+    margin-right: 4px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    color: #95a5a6;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: #2c3e50;
+}
+
+/* ==========================================================================
+   3. Hero Cover Section
+   ========================================================================== */
+.hero-banner {
+    height: 50vh;
+    background: linear-gradient(rgba(238, 244, 247, 0.88), rgba(238, 244, 247, 0.65)), 
+                url('mountainlandscape.jpg') no-repeat center center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero-content h1 {
+    font-family: 'Cinzel', serif;
+    font-size: 48px;
+    font-weight: 400;
+    color: #2d3e50;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 11px;
+    letter-spacing: 5px;
+    color: #7f8c8d;
+}
+
+/* ==========================================================================
+   4. High-Fidelity Gallery Positioning Engine (The Grid Fix)
+   ========================================================================== */
+.gallery-section {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 60px 20px;
+}
+
+.filter-menu {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-bottom: 50px;
+}
+
+.filter-item {
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #95a5a6;
+    cursor: pointer;
+    font-weight: 500;
+    padding-bottom: 3px;
+    transition: color 0.3s ease;
+}
+
+.filter-item.active, .filter-item:hover {
+    color: #2c3e50;
+    border-bottom: 1px solid #2c3e50;
+}
+
+/* We configure a strict grid structure with base rows tracking at 180px each.
+   By assigning explicit row spans (e.g. span 2 or span 3), we guarantee images
+   render with their true proportions exactly like the template photo.
+*/
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 180px;
+    gap: 24px;
+}
+
+.grid-item {
+    position: relative;
+    overflow: hidden;
+    background-color: #f7f9fa;
+    width: 100%;
+    height: 100%;
+}
+
+.grid-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.grid-item:hover img {
+    transform: scale(1.08);
+}
+
+/* --- Hover Caption Overlay (title + category, like the reference image) --- */
+.grid-caption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 24px 20px 18px;
+    background: linear-gradient(to top, rgba(20, 30, 40, 0.75) 0%, rgba(20, 30, 40, 0.35) 55%, rgba(20, 30, 40, 0) 100%);
+    opacity: 0;
+    transform: translateY(8px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+    pointer-events: none;
+}
+
+.grid-item:hover .grid-caption {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.grid-caption h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #ffffff;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+
+.grid-caption p {
+    font-size: 10px;
+    letter-spacing: 2px;
+    color: #d8e3ea;
+    font-weight: 500;
+}
+
+/* --- Strict Coordinate Mapping --- */
+
+/* Mountain: Spans Rows 1 to 3 on the Left Column (matches flatlay+lake height) */
+.item-mountain {
+    grid-column: 1;
+    grid-row: span 3;
+}
+
+/* Flatlay: Vertical portrait on Row 1 & 2 Center Column */
+.item-flatlay {
+    grid-column: 2;
+    grid-row: span 2;
+}
+
+/* Hot Chocolate: Vertical portrait on Row 1 & 2 Right Column */
+.item-chocolate {
+    grid-column: 3;
+    grid-row: span 2;
+}
+
+/* Misty Forest: Horizontal landscape on Row 3 Center Column */
+.item-lake {
+    grid-column: 2;
+    grid-row: span 1;
+}
+
+/* Friends: Horizontal landscape on Row 3 Right Column */
+.item-friends {
+    grid-column: 3;
+    grid-row: span 1;
+}
+
+/* Christmas Tree: Tall block on Left Column (matches campfire block) */
+.item-tree {
+    grid-column: 1;
+    grid-row: span 3;
+}
+
+/* Donuts: Tall block on Center Column (matches campfire block) */
+.item-donuts {
+    grid-column: 2;
+    grid-row: span 3;
+}
+
+/* Campfire: Ultra-tall portrait spanning the full height of tree+studying / donuts+gift on Right Column */
+.item-campfire {
+    grid-column: 3;
+    grid-row: span 4;
+}
+
+/* Kids Studying: Horizontal block on Left Column, beneath tree */
+.item-studying {
+    grid-column: 1;
+    grid-row: span 1;
+}
+
+/* Gift Box: Horizontal block on Center Column, beneath donuts */
+.item-gift {
+    grid-column: 2;
+    grid-row: span 1;
+}
+
+/* ==========================================================================
+   5. About Section Style Sheet
+   ========================================================================== */
+.about-section {
+    background-color: #edf3f6;
+    padding: 80px 20px;
+}
+
+.section-title {
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    font-size: 32px;
+    color: #2c3e50;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+}
+
+.about-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    gap: 60px;
+}
+
+.about-text {
+    flex: 1;
+}
+
+.about-text p {
+    margin-bottom: 22px;
+    font-size: 14px;
+    color: #555555;
+    text-align: justify;
+}
+
+.about-visual {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.about-img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.stats-counter-wrapper {
+    display: flex;
+    gap: 20px;
+}
+
+.stat-card {
+    flex: 1;
+    background-color: #ffffff;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.stat-card h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 26px;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.stat-card p {
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    color: #95a5a6;
+}
+
+/* ==========================================================================
+   6. Contact Form Workspace
+   ========================================================================== */
+.contact-section {
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.contact-subtitle {
+    font-size: 13px;
+    color: #7f8c8d;
+    margin-top: -35px;
+    margin-bottom: 45px;
+}
+
+.contact-form {
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.form-group {
+    margin-bottom: 24px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 11px;
+    letter-spacing: 2px;
+    color: #7f8c8d;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 14px;
+    border: 1px solid #e2e8f0;
+    background-color: #ffffff;
+    font-family: inherit;
+    font-size: 14px;
+    color: #2c3e50;
+    outline: none;
+}
+
+.submit-btn {
+    width: 100%;
+    background-color: #4f6374;
+    color: #ffffff;
+    border: none;
+    padding: 16px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+    background-color: #3b4a57;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    font-size: 12px;
+    color: #7f8c8d;
+    margin-top: 40px;
+}
+
+/* ==========================================================================
+   7. Footer Frame View
+   ========================================================================== */
+.main-footer {
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 1px solid #edf2f7;
+    font-size: 12px;
+    color: #bdc3c7;
+}
+
+.main-footer a {
+    color: #7f8c8d;
+    text-decoration: none;
+}
+
+/* ==========================================================================
+   8. Viewport Breakpoints Engine
+   ========================================================================== */
+
+/* Tablet Stream (Up to 1199px viewport width) */
+@media (max-width: 1199px) {
+    .gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 260px;
+    }
+    .grid-item {
+        grid-column: auto !important;
+        grid-row: auto !important;
+    }
+    .about-container {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+/* Mobile Stream (Below 768px viewport width) */
+@media (max-width: 767px) {
+    body {
+        padding-top: 110px;
+    }
+    .nav-container {
+        flex-direction: column;
+        gap: 12px;
+        padding: 15px;
+    }
+    .hero-banner {
+        height: 40vh;
+    }
+    .hero-content h1 {
+        font-size: 32px;
+    }
+    .gallery-grid {
+        grid-template-columns: 1fr;
+        grid-auto-rows: 280px;
+        gap: 20px;
+    }
+    .about-section, .gallery-section, .contact-section {
+        padding: 50px 15px;
+    }
+    .stats-counter-wrapper {
+        flex-direction: column;
+    }
+    .contact-info {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
